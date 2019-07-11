@@ -1,7 +1,7 @@
 # TV_Show_EndDate
 ==============================
 
-A model to predict when a TV show will end at any ppoint in the series.
+A model to predict when a TV show will end at any point in the series.
 ==============================
 
 Project Organization
